@@ -24,7 +24,7 @@ This repository contains:
 
 [![Sigma - Generic Signatures for Log Events](https://preview.ibb.co/cMCigR/Screen_Shot_2017_10_18_at_15_47_15.png)](https://www.youtube.com/watch?v=OheVuE9Ifhs "Sigma - Generic Signatures for Log Events")
 
-## SANS Webcast on MITRE ATT&CK® and Sigma
+## SANS Webcast on MITRE ATT&CK® and Sigma 
 
 The SANS webcast on Sigma contains a very good 20 min introduction to the project by John Hubbart from minute 39 onward. (SANS account required; registration is free)
 
